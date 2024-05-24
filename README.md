@@ -11,7 +11,7 @@ npm install @openzeppelin/contracts
 ```
 ## Compile
 ```shell
-npx hardhat compile
+npx hardhat compile[contracts](contracts)
 ```
 
 ## Deploy (If you add new network, Please add something in "hardhat.config.js")
